@@ -2,7 +2,7 @@
 
 This software analyzes your connection for packet latency and connection stability.  
 
-![Example UI](example_ui.jpg)  
+![Example UI](example_ui.png)  
 
 Mainly created to test gaming setups for a stable flow of packets when logged into a massive 
 online world where things happen in real-time and there's no time for buffering. A steady 
